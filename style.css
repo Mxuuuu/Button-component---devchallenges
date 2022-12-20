@@ -117,7 +117,7 @@ button{
 }
 
 .row-2-area-1:hover button, .row-2-area-1:focus button{
-    background-color: rgba(41, 98, 255, 0.1);
+    background-color: rgba(41, 98, 255, 0.3);
     border: solid 2px #3D5AFE;
     border-radius: 6px;
     width: 81px;
@@ -145,7 +145,7 @@ button{
 }
 
 .row-3-area-1:hover button, .row-3-area-1:focus button{
-    background-color: rgba(41, 98, 255, 0.1);
+    background-color: rgba(41, 98, 255, 0.3);
 }
 
 .row-4-area-1 button{
